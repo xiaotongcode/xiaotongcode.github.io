@@ -1,6 +1,6 @@
 # Windows 12 网页版
 
-> 又开学了。。。
+> 我又来更新了！
 
 - [Windows 12 网页版](#windows-12-网页版)
   - [前言](#前言)
@@ -20,7 +20,7 @@
 话不多说，来看一下截图
 
 ## 效果展示
-> 新的版本有很多变化，仅供参考，请以实物为准 (你点一下 [这里](https://tjy-gitnub.github.io/win12/desktop.html) 就知道了啊，不麻烦`-_-)o` )
+> 新的版本有很多变化，仅供参考，请以实物为准 (你点一下 [这里](https://tjy-gitnub.github.io/win12/desktop.html) 就知道了啊，不麻烦`-_-)o` )（XTC代理版本正在上线）
 
 ![image](https://user-images.githubusercontent.com/71509955/194317185-b64e87c7-4035-4f48-b726-e6cda5f9d81a.png)
 *开始*
@@ -32,7 +32,7 @@
 *深色模式*
 
 ## 在线体验
-[在线预览](https://tjy-gitnub.github.io/win12/desktop.html)
+[在线预览](https://tjy-gitnub.github.io/win12/desktop.html)（XTC代理版本正在上线）
 有点慢，稍等一下
 
 ## 安装和使用
